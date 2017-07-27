@@ -24,11 +24,20 @@ npm 官网： https://www.npmjs.com/get-npm
 
 	npm install npm@latest -g
 
-
-## ELectron 启动
+## Electron 启动
 
 	cd project_directory
 
 	npm install
 
 	npm start
+
+## 安装 electron-packager
+
+	sudo npm install electron-packager -g
+
+## 打包
+
+	cd project_directory
+
+ 	electron-packager .
