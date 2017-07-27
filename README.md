@@ -19,3 +19,16 @@ npm 官网： https://www.npmjs.com/get-npm
 	node -v
 
 	npm -v
+
+更新 npm 版本
+
+	npm install npm@latest -g
+
+
+## ELectron 启动
+
+	cd project_directory
+
+	npm install
+
+	npm start
