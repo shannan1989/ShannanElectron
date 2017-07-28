@@ -8,10 +8,11 @@
   },
   "repository": "https://github.com/shannan1989/ShannanElectron",
   "keywords": [
-    "Electron"
+    "Electron",
+    "山南君"
   ],
   "author": "山南君",
-  "license": "CC0-1.0",
+  "license": "Apache-2.0",
   "devDependencies": {
     "electron": "~1.6.2"
   }
