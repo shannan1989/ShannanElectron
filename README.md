@@ -24,6 +24,10 @@ npm 官网： https://www.npmjs.com/get-npm
 
 	npm install npm@latest -g
 
+安装淘宝镜像的包命令行管理工具cnpm
+
+	npm install cnpm -g --registry=http://registry.npm.taobao.org
+
 ## Electron 启动
 
 	cd project_directory
